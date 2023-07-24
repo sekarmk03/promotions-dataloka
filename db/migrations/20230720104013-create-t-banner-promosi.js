@@ -31,7 +31,7 @@ module.exports = {
         type: Sequelize.STRING(100)
       },
       deleted: {
-        type: Sequelize.BOOLEAN
+        type: Sequelize.INTEGER
       },
       created_by: {
         type: Sequelize.STRING
