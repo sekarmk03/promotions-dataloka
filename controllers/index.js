@@ -1,5 +1,4 @@
 const auth = require('./auth');
+const promotion = require('./promotions');
 
-module.exports = {
-    auth
-}
+module.exports = { auth, promotion };

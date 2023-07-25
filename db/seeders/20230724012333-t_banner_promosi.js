@@ -23,8 +23,8 @@ module.exports = {
       tags: 'saham, financial',
       deleted: 0,
       created_by: 'admin 1',
-      createdAt: new Date(),
-      updatedAt: new Date()
+      created_at: new Date(),
+      updated_at: new Date()
     },
     {
       judul_promosi: 'Promo September',
@@ -36,8 +36,8 @@ module.exports = {
       tags: 'beauty, fashion',
       deleted: 0,
       created_by: 'admin 1',
-      createdAt: new Date(),
-      updatedAt: new Date()
+      created_at: new Date(),
+      updated_at: new Date()
     },
    ], {});
   },
